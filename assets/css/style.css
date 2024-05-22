@@ -1,0 +1,17 @@
+nav{
+    background-color: #a3cfbb;
+    height: 10vh;
+}
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 2vw;
+}
+.contact {
+     background-color: rgba(80, 117, 80, 0.673);
+     color: white;
+     border: 0;
+     border-radius: 10px;
+     height: 6vh;
+     margin-left: 2vw;
+}
